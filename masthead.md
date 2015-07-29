@@ -17,7 +17,8 @@ you hire us! we are your employees! we join your existing data teams and integra
 ###what we do  
 * we scour open data portals and sites for authorative data like buildings, public amenities, and addresses  
 * we contact stakeholders to help generate interest in the community mapping process
-* we use best practices and repeatable processes to import quality data properly and quickly
+* we use best practices and repeatable processes to import quality data properly and quickly  
+* we fill in the gaps in current data, and look for ways to improve its usability  
 
 
 ###who we are  
